@@ -1,0 +1,1 @@
+This is a minimal python package implementing a complex HArtree Fock with CAP and some GW methods with CAP. At the moment it is in developement. It is highly based on the python version of the complex CAP part of the Quantum Chemistry Package QuAcK, which is in developement at the same time.
